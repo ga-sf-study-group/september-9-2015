@@ -12,7 +12,7 @@ Rotate Array
 
 Given an array and number of steps, rotate the array to the right by k steps. 
 
-For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4].
+For example, with array = [1,2,3,4,5,6,7] and k = 3, array is rotated to [5,6,7,1,2,3,4].
 
 ----
 
@@ -62,4 +62,3 @@ Add Binary
 Given two binary strings, return their sum (also a binary string).
 
 For example, a = "11", b = "1", the return is "100".
-
